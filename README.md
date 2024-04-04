@@ -1,1 +1,1 @@
-# VictorKrogh.Models.Abstractions
+# VictorKrogh.Model.Abstractions
