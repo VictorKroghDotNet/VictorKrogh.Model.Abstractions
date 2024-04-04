@@ -6,7 +6,7 @@ on:
 
 env: 
   configuration: Release
-  csproj_name: VictorKrogh.Models.Abstractions
+  csproj_name: VictorKrogh.Model.Abstractions
 
 jobs:
   build:

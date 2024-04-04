@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VictorKrogh.Models.Abstractions", "VictorKrogh.Models.Abstractions\VictorKrogh.Models.Abstractions.csproj", "{2FC30802-27C0-43A8-8ABB-83E0490F0409}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VictorKrogh.Model.Abstractions", "VictorKrogh.Model.Abstractions\VictorKrogh.Model.Abstractions.csproj", "{2FC30802-27C0-43A8-8ABB-83E0490F0409}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

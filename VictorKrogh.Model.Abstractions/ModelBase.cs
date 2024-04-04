@@ -2,7 +2,7 @@
 using System.Collections.Concurrent;
 using System.Reflection;
 
-namespace VictorKrogh.Models;
+namespace VictorKrogh.Model;
 
 public interface IModel
 {
